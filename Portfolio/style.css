@@ -1,0 +1,165 @@
+*{
+    border:0px;
+    padding:0px;
+  }
+  
+  body{
+    background-color: #171824;
+    color:white;
+  }
+  
+  .header{
+    width:100%;
+    height:19vh;
+    color: white;
+    font-weight: 700;
+  }
+  
+  .header li{
+    list-style: none;
+    display: inline;
+    font-size: 30px;
+    padding-right: 30px;
+  
+  }
+  
+  a:hover{
+    color: orange;
+  }
+  a{
+    text-decoration: none;
+    color:white;
+    transition: 0.2s;
+  }
+  .body{
+    padding-left:30vh;
+    height:70vh;
+  }
+  .devinfo{
+    font-size: 30px;
+    font-weight: 800;
+    height:387.5px;
+    width:480px;
+    margin-bottom: 10vh;
+  
+  
+  }
+  .devpic{
+  
+    height:375px;
+    width:400px;
+    margin-left:10vw;
+  }
+  .dr{
+    border:2px solid white;
+    border-radius: 20px;
+    height:55px;
+    width:25vw;
+    text-align: center;
+    align-content: center;
+    transition: 0.2s;
+  }
+  .dr:hover{
+    border:2px solid orange;
+    color:orange;
+  }
+  .contain{
+    display:flex;
+  }
+  img{
+    height:500px;
+    width:400px;
+    border:2px solid black;
+    border-radius: 40%;
+    rotate: 10px;
+  
+  }
+   .myIntro{
+    font-size:50px;
+    padding-left:30vh;
+    margin-top:30vh;
+   }
+   .intro{
+    display : flex;
+    padding-left:30vh ;
+    height:70vh;
+   }
+   
+   .text{
+    height:300px;
+    width:480px;
+    font-size: 35px;
+    font-weight: 700;
+    margin-top:15vh;
+    margin-bottom:10vh;
+    border-bottom: 4px solid white;
+   }
+   .introImage{
+    margin-left:20vh;
+   }
+   .skill{
+    padding-left:30vh;
+    font-size:2.8rem;
+    margin-top:30vh
+   }
+   .skills{
+    padding-left:30vh;
+    font-size:1.5rem;
+  
+   }
+   .language{
+    padding-left:30vh;
+    font-size:1.5rem;
+    margin-top:14vh;
+  
+   }
+  
+   .myProjects{
+    padding-left:30vh;
+    font-size:2.8rem;
+    margin-top:30vh
+   }
+   .mainp{
+    padding-left: 20vh;
+    display:flex;
+   }
+   .health img{
+    height:50vh;
+    width:25vw;
+   }
+   .contact{
+    padding-left:30vh;
+    font-size:2.8rem;
+    margin-top:30vh
+   }
+   .parts{
+    display:flex;
+    padding-left:30vh;
+    height:45vh;
+   }
+   .social{
+    text-decoration: none;
+    font-size: 30px;
+  
+   }
+   .social a {
+    padding-bottom: 1vh;
+   }
+   .email{
+      text-decoration: none;
+      font-size: 30px;
+      margin-left:6vw;
+      margin-right:3vw;
+     }
+     .no{
+      text-decoration: none;
+      font-size: 30px;
+      margin-left:3vw;
+    
+     }
+     .coll
+     {
+      margin-left:77vw;
+     }
+   
+   
